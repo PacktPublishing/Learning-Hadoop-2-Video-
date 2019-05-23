@@ -25,7 +25,7 @@ We will then discover HDFS, Hadoop’s file-system used to store data. We will l
 To fully benefit from the coverage included in this course, you will need:<br/>
 Low on theory, high on practice, this introduction to Hadoop delivers step-by-step guidance on setting up an instance, and working with each of the components of the Hadoop ecosystem. By the end of this course, you will be capable of implementing an Hadoop instance, storing, processing, and analyzing data with the framework.
 ### Technical Requirements
-This course has the following software requirements:<br/>
+This course has the following software requirements:<br/><br/>
 Minimum RAM required: 4GB (Suggested: 8GB)<br/>
 Minimum Free Disk Space: 25GB<br/>
 Minimum Processor i3 or above<br/>
